@@ -1,0 +1,8 @@
+data/
+models/*.joblib
+__pycache__/
+*.rar
+.venv/
+venv/
+.vscode/
+results/*.npy

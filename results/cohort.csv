@@ -1,0 +1,3 @@
+dataset,patients,patient_hours,septic_patients,septic_patients_pct,positive_hours,positive_hours_pct,imbalance_1_to,age_median,age_iqr_low,age_iqr_high,age_max,male_pct,los_hours_median,los_hours_iqr_low,los_hours_iqr_high,hours_before_first_positive_median,under_18_excluded
+A,20336,790215,1790,8.802124311565697,17136,2.168523756192935,45.11432072829132,64.67,52.29,75.66,89.0,58.192368214004716,39.0,25.0,47.0,28.0,0
+B,19978,761246,1140,5.706276904595055,10763,1.4138662140753449,69.72804980024158,62.0,50.0,72.0,100.0,53.66903593953348,38.0,23.0,47.0,27.5,22

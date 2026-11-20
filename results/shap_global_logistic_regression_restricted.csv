@@ -1,0 +1,15 @@
+feature,mean_abs_shap,scale
+DBP_obs,0.21878733,log-odds
+Resp,0.20699307,log-odds
+SBP_obs,0.17466128,log-odds
+HR,0.1493176,log-odds
+Temp,0.13829257,log-odds
+Temp_obs,0.08902911,log-odds
+SBP,0.07181997,log-odds
+Gender,0.057298195,log-odds
+O2Sat_obs,0.049534865,log-odds
+Resp_obs,0.04142835,log-odds
+Age,0.039589986,log-odds
+O2Sat,0.016863827,log-odds
+DBP,0.015834207,log-odds
+HR_obs,0.01248247,log-odds

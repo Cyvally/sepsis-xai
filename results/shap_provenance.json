@@ -1,0 +1,13 @@
+{
+  "global_sample_hours": 5000,
+  "per_fold_sample_hours": 2000,
+  "random_state": 42,
+  "sampled_from": "Dataset A",
+  "scale": {
+    "logistic_regression": "log-odds",
+    "xgboost": "log-odds",
+    "decision_tree": "probability",
+    "random_forest": "probability"
+  },
+  "individual_explanations_model": "random_forest_restricted"
+}
