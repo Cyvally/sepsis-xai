@@ -133,3 +133,9 @@ folds take several minutes each. If nothing has appeared for 30 minutes,
 press Ctrl+C in the terminal and run `python run_all.py` again; it resumes.
 
 **Anything else**: copy the last 20 lines from the terminal and send them.
+
+## Data and generated files
+
+- **Data:** The PhysioNet/CinC 2019 data is not included in this repository. Download it from PhysioNet (https://doi.org/10.13026/v64v-d857) and place the two files in the `data/` folder as `setA.parquet` and `setB.parquet`.
+- **Generated files:** The `.npy` files in `results/` (out-of-fold predictions, calibrated predictions and SIRS scores) are not stored in this repository. They are created when you run `python run_all.py`.
+
